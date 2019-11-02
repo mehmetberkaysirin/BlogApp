@@ -1,0 +1,6 @@
+C:\Users\manas\source\repos\BlogApp\BlogApp.Data\bin\Debug\BlogApp.Data.dll
+C:\Users\manas\source\repos\BlogApp\BlogApp.Data\bin\Debug\BlogApp.Data.pdb
+C:\Users\manas\source\repos\BlogApp\BlogApp.Data\obj\Debug\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\manas\source\repos\BlogApp\BlogApp.Data\obj\Debug\BlogApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\manas\source\repos\BlogApp\BlogApp.Data\obj\Debug\BlogApp.Data.dll
+C:\Users\manas\source\repos\BlogApp\BlogApp.Data\obj\Debug\BlogApp.Data.pdb
